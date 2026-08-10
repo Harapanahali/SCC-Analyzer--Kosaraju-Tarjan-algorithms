@@ -6,3 +6,4 @@ export default defineConfig({
     SCC-Analyzer--Kosaraju-Tarjan_algorithms/',
   plugins: [react()],
 })
+
